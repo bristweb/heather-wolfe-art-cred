@@ -8,7 +8,6 @@
 /example          /example/                           301
 /example/         /site/example                       200
 /robots.txt       /site/robots.txt                    200
-/sitemap.xml      /site/sitemap.xml                   200
 /assets/*         /package/assets/:splat              200
 /lang/*           /package/lang/:splat                200
 /schemas/*        /package/schemas/:splat             200
